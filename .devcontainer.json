@@ -21,7 +21,7 @@
         ],        
         // Set the default python to the conda install
         "python.defaultInterpreterPath": "/opt/conda/bin/python"
-    }
+    },
     "containerEnv": {
         "EARTHPY_DATA_HOME": "/workspaces/data",
     },
