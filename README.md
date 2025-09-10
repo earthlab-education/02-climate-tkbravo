@@ -1,6 +1,6 @@
-# Short Course Coding Challenge 1: Climate Change in Pakistan
+# Earth Data Analytics Coding Challenge 1: Climate Change in Boulder
 
-Higher highs, lower lows, storms, and smoke -- we're all feeling the effects of climate change. In this workflow, you will take a look at trends in temperature over time in Pakistan.
+Higher highs, lower lows, storms, and smoke -- we're all feeling the effects of climate change. In this workflow, you will take a look at trends in temperature over time in Boulder, CO.
 
 You can find demo videos, further reading, and solution code online in the [ESIIL Learning Portal Stars Textbook](https://cu-esiil-edu.github.io/esiil-learning-portal/notebooks/01-climate/climate-shortcourse.html)
 
